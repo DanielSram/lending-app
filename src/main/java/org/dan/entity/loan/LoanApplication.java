@@ -6,6 +6,16 @@ public class LoanApplication extends GenericLoan {
 
     private boolean isApproved;
 
+    private Loan loan;
+
+    public Loan getLoan() {
+        return loan;
+    }
+
+    public void setLoan(Loan loan) {
+        this.loan = loan;
+    }
+
     public boolean isApproved() {
         return isApproved;
     }
