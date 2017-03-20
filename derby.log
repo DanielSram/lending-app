@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 19 23:41:10 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015a-e8bb-403c-000007777238 
+on database directory memory:/home/daniel/Projects/lending-app/testdb with class loader sun.misc.Launcher$AppClassLoader@548c4f57 
+Loaded from file:/home/daniel/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/home/daniel/Projects/lending-app
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-66-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
